@@ -1,7 +1,5 @@
 # TerraPulse — The GPS for Agriculture
 
-**Observe the Earth. Understand the Soil. Cultivate the Future.**
-
 > **Authors:** Gkekas Georgios, Kyritsis Thomas  
 > **Project Paper:** *TerraPulse: A Precision Digital Agriculture Platform Leveraging NASA Earth Observation Data and Specialized Neural Networks* — [Read the Full Paper (PDF)](https://drive.google.com/file/d/1Itrr0SEqXuZhnRUyevfTjdnPLwHSKElD/view?usp=drive_link)
 
