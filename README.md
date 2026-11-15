@@ -23,11 +23,25 @@ As detailed in our accompanying technical paper, it bridges the gap between comp
 
 ## Why TerraPulse?
 
-Modern farmers face four interconnected challenges under a changing climate:
-1. **Drought & Water Waste:** Irregular rainfall and heatwaves reduce root-zone soil moisture, while watering without telemetry wastes water and pumping electricity.
-2. **Soil Exhaustion & Erosion:** Continuous monoculture drains organic matter, accelerates topsoil erosion, and drives up chemical fertilizer dependency.
-3. **The Crop Rotation Dilemma:** Choosing the right next crop requires balancing soil history, aridity, nitrogen needs, and farm profitability.
-4. **Wildfires & Extreme Storms:** After wildfires or severe weather, sloped farmland can lose its fertile topsoil in the very first heavy rain unless stabilized immediately.
+Agriculture is increasingly exposed to interconnected environmental pressures. Changing rainfall patterns, prolonged droughts, soil degradation, extreme temperatures and declining soil fertility make it increasingly difficult for farmers to maintain productive and resilient agricultural systems.
+
+One of the most consequential decisions farmers face is what to cultivate next.
+
+Choosing a crop is not simply a matter of identifying what grows well under current weather conditions. Sustainable crop selection requires considering:
+
+Soil health: How will the next crop affect soil fertility, organic matter and nutrient availability?
+
+Water availability: Can the field sustainably support the water requirements of the selected crop?
+
+Crop rotation: How can crop sequences reduce nutrient depletion and support biological nitrogen replenishment?
+
+Climate resilience: How will changing temperatures, rainfall patterns and extreme weather affect future growing seasons?
+
+Economic viability: Can farmers improve environmental sustainability without compromising their livelihoods?
+
+These decisions are interconnected, yet relevant environmental information is often scattered across different datasets, scientific platforms and agricultural tools.
+
+Farmers need more than satellite imagery or isolated environmental measurements. They need a way to translate this information into understandable, evidence-informed agricultural decisions.
 
 **TerraPulse solves all four in one unified interface.** You click any location or draw your exact field boundary on the map, and four specialized PyTorch neural networks analyze the land, fuse live weather forecasts, and explain—in plain language—**what is happening and what to do tomorrow morning**.
 
